@@ -1,4 +1,4 @@
-﻿using System.Numerics;
+using System.Numerics;
 using System.Xml.Linq;
 using TextAdventure.Entities;
 using TextAdventure.Interfaces;
