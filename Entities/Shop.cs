@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TextAdventure.Interfaces;
+using Interfaces;
 
-namespace TextAdventure.Entities
+namespace Entities
 {
     public class Shop
     {
