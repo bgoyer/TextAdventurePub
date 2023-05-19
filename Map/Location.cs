@@ -4,9 +4,9 @@ using System.Linq;
 using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
-using TextAdventure.Interfaces;
+using Interfaces;
 
-namespace TextAdventure.Map
+namespace Map
 {
     public class Location
     {
