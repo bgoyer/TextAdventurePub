@@ -1,8 +1,8 @@
 ﻿using System.Numerics;
 using System.Text;
-using TextAdventure.Misc;
+using Misc;
 
-namespace TextAdventure.Map
+namespace Map
 {
     public class Continent
     {
