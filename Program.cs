@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace TextAdventure
+namespace
 {
     public class Program
     {
