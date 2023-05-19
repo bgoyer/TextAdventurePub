@@ -49,6 +49,7 @@ public class Game
         private void CreatePlayer()
     {
         Console.Clear();
+        Console.WriteLine("Whats your name?");
         string name = Input();
         if (!CheckName(name)) CreatePlayer();
         else
