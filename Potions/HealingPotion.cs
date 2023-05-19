@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TextAdventure.Entities;
-using TextAdventure.Interfaces;
+using Entities;
+using Interfaces;
 
-namespace TextAdventure.Potions
+namespace Potions
 {
     public class HealingPotion : Item, IUsables
     {
