@@ -1,16 +1,16 @@
 using System.Numerics;
 using System.Xml.Linq;
-using TextAdventure.Entities;
-using TextAdventure.Interfaces;
-using TextAdventure.Map;
-using TextAdventure.Misc;
-using TextAdventure.Commands;
-using TextAdventure.Potions;
+using Entities;
+using Interfaces;
+using Map;
+using Misc;
+using Commands;
+using Potions;
 
 public class Game
 {
-    private Player _player;
-    private Continent _currentContinent;
+    private Entities.Player _player;
+    private Map.Continent _currentContinent;
 	private CommandHandler _commandHandler;
     private int _currentContinent_Size = 100;
 
