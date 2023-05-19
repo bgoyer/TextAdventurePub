@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TextAdventure.Interfaces
+namespace Interfaces
 {
     public abstract class Item
     {
