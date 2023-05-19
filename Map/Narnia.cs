@@ -5,7 +5,7 @@ using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TextAdventure.Map
+namespace Map
 {
     public class Narnia : Continent
     {
