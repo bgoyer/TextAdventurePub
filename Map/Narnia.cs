@@ -11,7 +11,8 @@ namespace TextAdventure.Map
     {
         public Narnia(Vector2 size) : base("Narnia", size)
         {
-
+            
         }
+
     }
 }
