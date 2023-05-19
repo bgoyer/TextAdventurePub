@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using TextAdventure.Entities;
 
-namespace TextAdventure.Misc
+namespace Misc
 {
     public class Command
     {
