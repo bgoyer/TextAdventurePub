@@ -4,11 +4,11 @@ using System.Linq;
 using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
-using TextAdventure.Entities;
-using TextAdventure.Map;
-using TextAdventure.Misc;
+using Entities;
+using Map;
+using Misc;
 
-namespace TextAdventure.Commands
+namespace Commands
 {
     public class CommandHandler
     {
