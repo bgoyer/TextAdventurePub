@@ -9,7 +9,7 @@ using Potions;
 
 public class Game
 {
-    private Entities.Player _player;
+    private Player _player;
     private Map.Continent _currentContinent;
 	private CommandHandler _commandHandler;
     private int _currentContinent_Size = 100;
