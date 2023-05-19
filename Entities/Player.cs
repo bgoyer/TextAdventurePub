@@ -4,10 +4,10 @@ using System.Linq;
 using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
-using TextAdventure.Interfaces;
-using TextAdventure.Map;
+using Interfaces;
+using Map;
 
-namespace TextAdventure.Entities
+namespace Entities
 {
     public class Player
     {
