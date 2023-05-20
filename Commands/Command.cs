@@ -1,5 +1,5 @@
 ﻿using System.Text;
-using TextAdventure.Entities;
+using Entities;
 
 namespace Misc
 {

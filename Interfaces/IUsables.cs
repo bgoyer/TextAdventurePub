@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TextAdventure.Entities;
+using Entities;
 
-namespace TextAdventure.Interfaces
+namespace Interfaces
 {
     public interface IUsables
     {
